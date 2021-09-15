@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plants &#8211; Eco &amp; Nature / Environment WordPress Theme</title>
+	<atom:link href="https://demo.zozothemes.com/gosolar/category/plants/feed/" rel="self" type="application/rss+xml" />
+	<link>https://demo.zozothemes.com/gosolar</link>
+	<description>Just another PREMIUM WORDPRESS THEMES Sites site</description>
+	<lastBuildDate>Tue, 04 Jul 2017 13:23:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>https://demo.zozothemes.com/gosolar/wp-content/uploads/sites/3/2017/07/cropped-favicon-32x32.png</url>
+	<title>Plants &#8211; Eco &amp; Nature / Environment WordPress Theme</title>
+	<link>https://demo.zozothemes.com/gosolar</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Make Plants Alive</title>
+		<link>https://demo.zozothemes.com/gosolar/make-plants-alive/</link>
+		
+		<dc:creator><![CDATA[Johny Walker]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2017 13:23:38 +0000</pubDate>
+				<category><![CDATA[Plants]]></category>
+		<category><![CDATA[Ecology]]></category>
+		<guid isPermaLink="false">http://demo.zozothemes.com/gosolar/?p=62</guid>
+
+					<description><![CDATA[Mauris id enim id purus ornare tincidunt. Aenean vel consequat risus. Proin viverra nisi at nisl imperdiet auctor. Donec ornare, est sed tincidunt placerat, sem mi suscipit mi, at varius enim sem at sem. Fusce tempus ex nibh, eget vulputate ligula ornare eget. Nunc facilisis erat at ligula blandit tempor. Mauris iaculis magna ipsum, sit amet pretium risus dictum cursus....]]></description>
+										<content:encoded><![CDATA[<p>Mauris id enim id purus ornare tincidunt. Aenean vel consequat risus. Proin viverra nisi at nisl imperdiet auctor. Donec ornare, est sed tincidunt placerat, sem mi suscipit mi, at varius enim sem at sem. Fusce tempus ex nibh, eget vulputate ligula ornare eget. Nunc facilisis erat at ligula blandit tempor. Mauris iaculis magna ipsum, sit amet pretium risus dictum cursus. Morbi id massa sed risus eleifend rutrum. Mauris lorem diam, fermentum sed lorem ac, maximus efficitur sapien. Aenean condimentum ornare est, vitae egestas orci mattis a.</p>
+<blockquote><p>Pellentesque elit arcu, finibus ut rutrum vel, dapibus eget nisi. Suspendisse at venenatis arcu, et accumsan ante.</p></blockquote>
+<p>Maecenas iaculis fringilla magna sit amet volutpat. Proin vestibulum, ex quis imperdiet tempus, nunc turpis condimentum est, at pretium urna dolor sed leo. Vivamus consequat massa nisl, id ultrices libero cursus in. Vivamus pellentesque turpis ut sollicitudin venenatis. Nam feugiat euismod euismod. Sed pellentesque elit vel nunc ornare vestibulum. Curabitur dui velit, congue ut faucibus et, mattis in ante. Fusce aliquam nulla orci, ut molestie libero laoreet in. Nunc eu euismod nulla, sit amet dignissim risus. Mauris vitae suscipit ante. In turpis lacus, elementum vitae maximus sed, elementum quis nisi. Praesent maximus aliquam arcu a feugiat. Proin at leo semper, condimentum ipsum vestibulum, condimentum tortor. Aenean eu ligula non massa convallis vehicula. Aenean malesuada, ante eget fringilla maximus, nisi sapien auctor massa, eu rutrum tellus lectus id nulla. Vivamus at sagittis quam, eu euismod lectus.</p>
+<p>Suspendisse potenti. Donec blandit justo at auctor tempor. Ut eget nisl sed risus mollis dapibus. Nullam hendrerit dolor ultricies purus viverra iaculis. Praesent non tincidunt magna. Mauris faucibus massa non velit fermentum, sed interdum elit aliquet. Nulla vulputate quam ante, sit amet elementum neque gravida in. Aliquam ornare placerat mauris, eget pellentesque nulla faucibus sed. Nunc id pellentesque nunc, eget placerat libero. Fusce ut vehicula purus. Nulla enim orci, fermentum id metus in, lacinia congue metus. Morbi eu sapien sit amet urna faucibus gravida ac a neque.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
